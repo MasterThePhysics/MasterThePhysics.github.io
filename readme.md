@@ -1,4 +1,4 @@
 ## Master The Physics with Sanchit Sir !!
-(Complete Website Coming Soon. MasterThePhyscis.com )
+( Website Coming Soon => MasterThePhysics.com )
 
 ![Master Physcis](physics.png)
